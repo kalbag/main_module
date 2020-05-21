@@ -1,0 +1,6 @@
+[submodule "internal/sub1"]
+	path = internal/sub1
+	url = https://github.com/kalbag/sub1
+[submodule "internal/sub2"]
+	path = internal/sub2
+	url = https://github.com/kalbag/sub2
